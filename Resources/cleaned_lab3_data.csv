@@ -1,0 +1,51 @@
+ID,Name,Category,City,Value,Date
+1,Charlie,category c,Chicago,46.0,2023-04-13
+2,Jane,category c,Houston,53.0,2023-12-15
+3,Jane,category a,Chicago,68.0,2023-09-28
+4,John,unknown,New York,97.0,2023-04-17
+5,Jane,category c,Houston,71.0,2023-03-13
+6,Eve,category a,Los Angeles,61.0,2023-07-08
+7,Jane,category a,Chicago,48.0,2023-01-21
+8,Bob,category b,New York,65.0,2023-04-13
+9,Bob,category b,Los Angeles,0.0,2023-05-02
+10,Dave,category b,Los Angeles,11.0,2023-08-03
+11,Bob,category c,unknown,96.0,2023-11-27
+12,Dave,category a,Houston,10.0,2023-03-29
+13,Bob,category c,Chicago,11.0,2023-04-10
+14,Eve,unknown,New York,99.0,2023-12-26
+15,Grace,category c,unknown,41.0,2023-06-01
+16,Dave,category a,Houston,64.0,2023-05-11
+17,Alice,category a,unknown,26.0,2023-05-30
+18,Charlie,unknown,Houston,33.0,2023-11-05
+19,John,category a,Houston,79.0,2023-09-15
+20,Bob,category a,Chicago,25.0,2023-12-10
+21,Jane,category b,Houston,68.0,2023-10-21
+22,Grace,unknown,unknown,12.0,2023-07-11
+23,Bob,category b,Houston,68.0,2023-10-04
+24,Jane,category b,Chicago,99.0,2023-06-10
+25,Charlie,category a,Chicago,28.0,2023-11-10
+26,Charlie,category b,unknown,80.0,2023-01-22
+27,Charlie,category b,Los Angeles,42.0,2023-09-10
+28,Jane,category a,Los Angeles,48.0,2023-08-24
+29,Bob,category b,Houston,10.0,2023-12-11
+30,Charlie,category c,New York,66.0,2023-02-18
+31,Eve,category a,Houston,32.0,2023-02-28
+32,Dave,unknown,unknown,51.0,2023-06-19
+33,Jane,category a,unknown,25.0,2023-07-07
+34,Jane,category a,unknown,69.0,2023-09-28
+35,Bob,category b,unknown,10.0,2023-07-09
+36,Jane,unknown,unknown,0.0,2023-06-24
+37,Jane,category a,Chicago,46.0,2023-02-20
+38,Charlie,category b,Los Angeles,18.0,2023-12-30
+39,Bob,category a,unknown,28.0,2023-02-24
+40,Charlie,category a,New York,12.0,2023-09-01
+41,Dave,unknown,New York,63.0,2023-11-16
+42,Grace,unknown,New York,33.0,2023-05-11
+43,Dave,category c,New York,81.0,2023-11-03
+44,Grace,category c,Chicago,93.0,2023-05-15
+45,Charlie,category b,New York,98.0,2023-01-21
+46,Dave,category b,unknown,27.0,2023-11-25
+47,Bob,category c,Houston,91.0,2023-06-16
+48,John,category b,New York,44.0,2023-10-01
+49,Charlie,category b,Chicago,50.0,2023-03-30
+50,Grace,category a,Chicago,77.0,2023-11-12
